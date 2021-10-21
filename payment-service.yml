@@ -1,5 +1,5 @@
 erver:
-  port: 9092
+  port: 9093
 spring:
   application:
     name: payment-service
